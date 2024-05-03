@@ -8,7 +8,7 @@ endif
 
 GAME_TITLE		:=	S8DS
 GAME_SUBTITLE1	:=	Sega 8-bit Emulator
-GAME_SUBTITLE2	:=	www.ndsretro.com
+GAME_SUBTITLE2	:=	github.com/FluBBaOfWard/S8DS
 GAME_ICON		:=	$(CURDIR)/../Sms.bmp
 
 include $(DEVKITARM)/ds_rules
